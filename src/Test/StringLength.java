@@ -4,7 +4,7 @@ package Test;
  * Created by Thomas Tibebu,
  * Date May 20, 2019
  **/
-public class StringLength3Test {
+public class StringLength {
     public static void main(String[] args) {
         System.out.println(isStringLengthIs3("Hello"));
     }

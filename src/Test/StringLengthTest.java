@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * Created by Thomas Tibebu,
  * Date May 20, 2019
  **/
-class StringLength3TestTest {
+class StringLengthTest {
 
     @Test
     void isStringLengthIs3() {
