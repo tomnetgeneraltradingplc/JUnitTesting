@@ -12,11 +12,11 @@ class StringLengthTest {
 
     @Test
     void isStringLengthIs3() {
-        int str1 = "tom".length();
-        int str2 = "Run".length();
-        int str3 = "May".length();
-        assertEquals(3, str1);
-        assertEquals(3, str2);
-        assertEquals(3, str3);
+
+        int actualValue = "Thomas".length();
+        int expectedValue = 6;
+
+        assertEquals(expectedValue, actualValue);
+
     }
 }
