@@ -1,9 +1,7 @@
 package Test;
-
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 /**
  * Created by Thomas Tibebu,
  * Date May 20, 2019
@@ -11,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class StringLengthTest {
 
     @Test
-    void isStringLengthIs3() {
+    void StringLengthTest() {
 
         int actualValue = "Thomas".length();
         int expectedValue = 6;
